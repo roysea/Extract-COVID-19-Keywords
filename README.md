@@ -5,3 +5,8 @@
 For this project I am following this tutorial:
 https://medium.com/analytics-vidhya/extracting-keywords-from-covid-19-news-with-python-13249571d37b
 Part-of-Speech tagging is defined as the process of assigning a part of speech to the given word.
+
+
+Word Cloud:
+![Word Cloud with White Background](wordCloud_Covid.png)
+![Word Cloud with White Background](wordCloud_Covid_black.png)
